@@ -1,0 +1,18 @@
+1. better way to eval data; metric; value
+
+use order amount/total data and then take mean
+or just use median
+
+also take out shop 78 since it skews data too far
+
+mean = 152.47
+median = 153
+
+
+2. orders shipped by speedy; last name of emp with most orders; product ordered most by customers in germany
+
+speedy - 54
+
+peacock - 40
+
+boston crab meat - 160
